@@ -40,7 +40,7 @@
         "ignoreUploadUnusedFiles": true
     },
     "appid": "wxae687f19b507e6b6",
-    "projectname": "miniprogram-2",
+    "projectname": "applets",
     "libVersion": "2.14.1",
     "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
     "condition": {
